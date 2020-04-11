@@ -82,5 +82,3 @@ app.get('/appointments', function (req, res) {
 
 
 
-
-
